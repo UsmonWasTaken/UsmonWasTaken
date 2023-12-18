@@ -22,4 +22,4 @@ I'm Usmon, an entry-level Android developer at Nowhere. Like, literally. I work 
 - Computer Science Student at TUIT
 -->
 
-If you want to know more about me or my projects, feel free to check out my GitHub profile or follow me on [Twitter](https://twitter.com/meetusmon), or send me an [email](mailto:usdaves@gmail.com). But don't expect a quick reply, because I'm probably busy sleeping. 😴
+If you want to know more about me or my projects, feel free to check out my GitHub profile or follow me on [Twitter](https://twitter.com/usmonwastaken), or send me an [email](mailto:usmonwastaken@gmail.com). But don't expect a quick reply, because I'm probably busy sleeping. 😴
